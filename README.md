@@ -1,1 +1,1 @@
-# Repo1
+![Statistics](stats.png)
